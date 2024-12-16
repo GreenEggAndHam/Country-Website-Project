@@ -1,0 +1,24 @@
+nav a:hover{background-color:white;color:black; transition:0.5s;}
+
+#fire{align-content: center; justify-content: center; align-items:center; flex:2;background-image: url(puerto-rico-gettyimages-824742862.jpg); border-color:yellow; border-style:2px solid;background-repeat: no-repeat; background-size:cover; }
+
+.riddler{background-color: blue;}
+
+
+
+.flexer{align-content: center; justify-content: center; align-items:center; flex:2; padding:20px}
+
+#goofy{border-color:yellow; border-style:solid; border-weight:5px:background;}
+
+.flexer a{text-decoration:none;font-family:Arial; font-size:25px; color:yellow; padding:10px; border-color:black; border-style:solid; flex:2;background-color:green;}
+
+.flexer{display:flex;}
+
+
+
+.bamboozle{
+display:flex; 
+}
+
+
+.diddler{display:flex; flex:2 flex-direction:column;border-color:red;border-style:solid; padding:20px;}
